@@ -1,0 +1,334 @@
+-+- 0
+defined: 1
+value: 131088
+---
+-+- 1
+defined: 1
+value: 131087
+---
+-+- 2
+defined: 1
+value: 131086
+---
+-+- 3
+defined: 1
+value: 131111
+---
+-+- 4
+defined: 1
+value: 131092
+---
+-+- 5
+defined: 1
+value: 131091
+---
+-+- 6
+defined: 1
+value: 131090
+---
+-+- 7
+defined: 1
+value: 131089
+---
+-+- 8
+defined: 1
+value: 131119
+---
+-+- 9
+defined: 1
+value: 131094
+---
+-+- 10
+defined: 1
+value: 131093
+---
+-+- 11
+defined: 1
+value: 0
+---
+-+- 12
+defined: 1
+value: 131109
+---
+-+- 13
+defined: 1
+value: 131116
+---
+-+- 14
+defined: 1
+value: 14
+---
+-+- 15
+defined: 1
+value: 127
+---
+-+- 16
+defined: 1
+value: 7
+---
+-+- 17
+defined: 1
+value: 131110
+---
+-+- 18
+defined: 1
+value: 131121
+---
+-+- 19
+defined: 1
+value: 327680
+---
+-+- 20
+defined: 1
+value: 131180
+---
+-+- 21
+defined: 1
+value: 131112
+---
+-+- 22
+defined: 1
+value: 11
+---
+-+- 23
+defined: 1
+value: 131115
+---
+-+- 24
+defined: 1
+value: 131102
+---
+-+- 25
+defined: 1
+value: 131118
+---
+-+- 26
+defined: 1
+value: 131100
+---
+-+- 27
+defined: 1
+value: 131120
+---
+-+- 28
+defined: 0
+---
+-+- 29
+defined: 1
+value: 131099
+---
+-+- 30
+defined: 1
+value: 131113
+---
+-+- 31
+defined: 1
+value: 6
+---
+-+- 32
+defined: 1
+value: 131098
+---
+-+- 33
+defined: 1
+value: 131103
+---
+-+- 34
+defined: 1
+value: 131104
+---
+-+- 35
+defined: 1
+value: 131101
+---
+-+- 36
+defined: 1
+value: 12
+---
+-+- 37
+defined: 1
+value: 9
+---
+-+- 38
+defined: 1
+value: 131105
+---
+-+- 39
+defined: 1
+value: 131106
+---
+-+- 40
+defined: 1
+value: 1
+---
+-+- 41
+align: 8
+size: 96
+fldofs decimal_point: 0
+fldsize decimal_point: 8
+fldofs thousands_sep: 8
+fldsize thousands_sep: 8
+fldofs grouping: 16
+fldsize grouping: 8
+fldofs int_curr_symbol: 24
+fldsize int_curr_symbol: 8
+fldofs currency_symbol: 32
+fldsize currency_symbol: 8
+fldofs mon_decimal_point: 40
+fldsize mon_decimal_point: 8
+fldofs mon_thousands_sep: 48
+fldsize mon_thousands_sep: 8
+fldofs mon_grouping: 56
+fldsize mon_grouping: 8
+fldofs positive_sign: 64
+fldsize positive_sign: 8
+fldofs negative_sign: 72
+fldsize negative_sign: 8
+fldofs int_frac_digits: 80
+fldsize int_frac_digits: 1
+fldunsigned int_frac_digits: 0
+fldofs frac_digits: 81
+fldsize frac_digits: 1
+fldunsigned frac_digits: 0
+fldofs p_cs_precedes: 82
+fldsize p_cs_precedes: 1
+fldunsigned p_cs_precedes: 0
+fldofs p_sep_by_space: 83
+fldsize p_sep_by_space: 1
+fldunsigned p_sep_by_space: 0
+fldofs n_cs_precedes: 84
+fldsize n_cs_precedes: 1
+fldunsigned n_cs_precedes: 0
+fldofs n_sep_by_space: 85
+fldsize n_sep_by_space: 1
+fldunsigned n_sep_by_space: 0
+fldofs p_sign_posn: 86
+fldsize p_sign_posn: 1
+fldunsigned p_sign_posn: 0
+fldofs n_sign_posn: 87
+fldsize n_sign_posn: 1
+fldunsigned n_sign_posn: 0
+---
+-+- 42
+defined: 1
+value: 262159
+---
+-+- 43
+defined: 1
+value: 131107
+---
+-+- 44
+defined: 0
+---
+-+- 45
+defined: 1
+value: 5
+---
+-+- 46
+defined: 1
+value: 131080
+---
+-+- 47
+defined: 1
+value: 131081
+---
+-+- 48
+defined: 1
+value: 131079
+---
+-+- 49
+defined: 1
+value: 131084
+---
+-+- 50
+defined: 1
+value: 131085
+---
+-+- 51
+defined: 1
+value: 131082
+---
+-+- 52
+defined: 1
+value: 131083
+---
+-+- 53
+defined: 1
+value: 131078
+---
+-+- 54
+defined: 1
+value: 131077
+---
+-+- 55
+defined: 1
+value: 131076
+---
+-+- 56
+defined: 1
+value: 131075
+---
+-+- 57
+defined: 1
+value: 131074
+---
+-+- 58
+defined: 1
+value: 131073
+---
+-+- 59
+defined: 1
+value: 131072
+---
+-+- 60
+defined: 1
+value: 131114
+---
+-+- 61
+defined: 1
+value: 65537
+---
+-+- 62
+defined: 1
+value: 3
+---
+-+- 63
+defined: 1
+value: 65536
+---
+-+- 64
+defined: 1
+value: 10
+---
+-+- 65
+defined: 1
+value: 4
+---
+-+- 66
+defined: 1
+value: 327681
+---
+-+- 67
+defined: 1
+value: 131108
+---
+-+- 68
+defined: 1
+value: 131097
+---
+-+- 69
+defined: 1
+value: 131096
+---
+-+- 70
+defined: 1
+value: 131095
+---
+-+- 71
+defined: 1
+value: 8
+---
+-+- 72
+defined: 1
+value: 2
+---
